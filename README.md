@@ -10,7 +10,7 @@ This is a sample command lines for beginners who are just about to start using S
  
 
 # How to Install and Run the Project 
-If you wish to run this file on your computer, please make sure you have Python IDE. If you are using Python 2.5 and below, you will need to install SQlite3 module. If you are using Python 3.0 and above, Sqlite3 module has already been pre-installed for you, you may just download the SQLite3.py file from depository section and run the file section by section. 
+If you wish to run this file on your computer, please make sure you have Python IDE. If you are using Python 2.5 and below, you will need to install SQlite3 module. If you are using Python 3.0 and above, Sqlite3 module has already been pre-installed for you, you may just download the SQLite3.py file from depository section and run the code section by section. 
 
 Language: Python, Sqlite3 
 Module in use: Sqlite3
